@@ -1,1 +1,1 @@
-# py-oam
+# Outlying Aspect Mining
